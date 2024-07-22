@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tasks</string>
+    <string name="mytaskapp">המשימות שלי</string>
+    <string name="new_task">משימה חדשה</string>
+    <string name="enter_the_task_title">כתוב כותרת</string>
+    <string name="enter_the_task_description">"כתוב תוכן "</string>
+    <string name="select_image">בחר תמונה</string>
+    <string name="save_task">שמור משימה</string>
+    <string name="about_mytaskapp">אודות אפליקציה</string>
+    <string name="version_1_0">"גירסה 1.0  "</string>
+    <string name="developers_itzik_ben_harush_nir_aizen_ofir_salomon">מתכנתים: איציק בן הרוש, ניר אייזן, אופיר סלומון</string>
+    <string name="contact_info_mytaskapp_com">צור קשר: info@MyTaskApp.com</string>
+    <string name="this_app_helps_you_manage_your_tasks_effectively">האפליקציה הזו עוזרת לך לנהל את המשימות שלך באופן אפקטיבי</string>
+    <string name="back_about">חזרה</string>
+    <string name="add_to_calendar">הוסף ללוח שנה</string>
+    <string name="contact_us">צור קשר</string>
+    <string name="if_you_have_any_questions_or_need_support_please_contact_us_at_support_mytaskapp_com">במידה ויש שאלות או אתה נזקק לתמיכה אנא צור קשר במייל: Support@MyTaskApp.com</string>
+    <string name="contact_us_button">צור קשר</string>
+    <string name="back_contact_us">חזרה</string>
+    <string name="select_image_f_i">בחר תמונה</string>
+    <string name="save_image_f_i">שמור תמונה</string>
+    <string name="back_detail">חזרה</string>
+    <string name="search_tasks">חיפוש משימות</string>
+    <string name="contact_us_task_list">צור קשר</string>
+    <string name="about_task_list">אודות</string>
+    <string name="loading">טעינה</string>
+    <string name="update_task">עדכון משימה</string>
+    <string name="enter_the_task_title_update">כתוב כותרת</string>
+    <string name="enter_the_task_description_update">"כתוב תוכן "</string>
+    <string name="update_task_update">עדכן משימה</string>
+    <string name="add_task_to_calendar">הוספה ללוח שנה</string>
+    <string name="do_you_want_to_add_this_task_to_your_calendar">האם אתה רוצה להוסיף ללוח שנה?</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="title_ascending">לפי שם בסדר עולה</string>
+    <string name="title_descending">לפי שם בסדר יורד</string>
+    <string name="date_ascending">לפי תאריך בסדר עולה</string>
+    <string name="date_descending">לפי תאריך בסדר יורד</string>
+    <string name="sort_by">מיין לפי</string>
+    <string name="ok">מיין</string>
+</resources>
